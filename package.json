@@ -1,0 +1,20 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "we are going  to reun apps using react and angular since this repo is only to create our server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davidcastel26/webServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davidcastel26/webServer/issues"
+  },
+  "homepage": "https://github.com/Davidcastel26/webServer#readme"
+}
