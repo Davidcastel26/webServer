@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Davidcastel26/webServer/issues"
   },
-  "homepage": "https://github.com/Davidcastel26/webServer#readme"
+  "homepage": "https://github.com/Davidcastel26/webServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
