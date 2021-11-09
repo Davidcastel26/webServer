@@ -8,8 +8,16 @@ app.set('view engine', 'hbs');
 app.use( express.static('public'));
 
 app.get('/',(req, res)=> {
-  res.render('home')
+  res.render('home', {
+    name:'David Larios',
+    title: 'Node course'
+  })
 });
+
+// app.get('/', (req, res) =>{
+//   res.send(' what supp')
+// })
+
 // app.get('/hey-dave', (req, res) => {
 //   res.send('Hello World')
 // }) 
